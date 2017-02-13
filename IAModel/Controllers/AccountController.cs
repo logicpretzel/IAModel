@@ -12,6 +12,9 @@ using IAModel.Models;
 
 namespace IAModel.Controllers
 {
+
+
+    //TODO: init
     [Authorize]
     public class AccountController : Controller
     {
