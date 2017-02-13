@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAModel", "IAModel\IAModel.csproj", "{529F45E6-B9F1-4E02-BCE9-257C1A064A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAModel.Tests", "IAModel.Tests\IAModel.Tests.csproj", "{CFC47841-F169-419D-AD07-E6EF4DB90AB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529F45E6-B9F1-4E02-BCE9-257C1A064A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529F45E6-B9F1-4E02-BCE9-257C1A064A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529F45E6-B9F1-4E02-BCE9-257C1A064A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529F45E6-B9F1-4E02-BCE9-257C1A064A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC47841-F169-419D-AD07-E6EF4DB90AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC47841-F169-419D-AD07-E6EF4DB90AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC47841-F169-419D-AD07-E6EF4DB90AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC47841-F169-419D-AD07-E6EF4DB90AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
